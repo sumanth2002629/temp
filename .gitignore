@@ -1,0 +1,4 @@
+protein_embeddings/data
+one-hot/onehot_tr.npy
+one-hot/onehot_te.npy
+dna_embeddings/embeddings_DB2.pt
